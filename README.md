@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **singhanurag17042002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11f33CGkxozRP0sUHo7-RnWTmmeTd8iQ7/view?usp=sharing](https://drive.google.com/file/d/11f33CGkxozRP0sUHo7-RnWTmmeTd8iQ7/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/anurag_174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag_174" height="30" width="40" /></a>

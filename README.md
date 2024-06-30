@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Raj</h1>
-<h3 align="center">A Web Developer and a problem solver currently pursing Btech-EE from NIT Agartala</h3>
+<h3 align="center">A Web Developer and a problem solver currently pursing Btech-ECE from NIT Agartala</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asb1704&label=Profile%20views&color=0e75b6&style=flat" alt="asb1704" /> </p>
 
